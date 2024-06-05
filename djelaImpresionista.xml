@@ -1,0 +1,51 @@
+<Djela>
+    <Djelo>
+        <Slika>Slike/Impresionizam1.jpg</Slika>
+        <Naslov>Le déjeuner sur l'herbe</Naslov>
+        <Slikar>Édouard Manet</Slikar>
+        <Godina>1863</Godina>
+        <Muzej>Musée d'Orsay, Paris</Muzej>
+    </Djelo>
+    <Djelo>
+        <Slika>Slike/Impresionizam2.jpg</Slika>
+        <Naslov>Fog, Voisins</Naslov>
+        <Slikar>Alfred Sisley</Slikar>
+        <Godina>1874</Godina>
+        <Muzej>Musée d'Orsay, Paris</Muzej>
+    </Djelo>
+    <Djelo>
+        <Slika>Slike/Impresionizam3.jpg</Slika>
+        <Naslov>In a Park</Naslov>
+        <Slikar>Berthe Morisot</Slikar>
+        <Godina>1874</Godina>
+        <Muzej>Musee du Petit Palais, Paris</Muzej>
+    </Djelo>
+    <Djelo>
+        <Slika>Slike/Impresionizam4.jpg</Slika>
+        <Naslov>L'Absinthe</Naslov>
+        <Slikar>Edgar Degas</Slikar>
+        <Godina>1876</Godina>
+        <Muzej>Musée d'Orsay, Paris</Muzej>
+    </Djelo>
+    <Djelo>
+        <Slika>Slike/Impresionizam5.jpg</Slika>
+        <Naslov>Paris Street, Rainy Day</Naslov>
+        <Slikar>Gustave Caillebotte</Slikar>
+        <Godina>1877</Godina>
+        <Muzej>The Art Institute of Chicago</Muzej>
+    </Djelo>
+    <Djelo>
+        <Slika>Slike/Impresionizam6.jpg</Slika>
+        <Naslov>Girl with a Hoop</Naslov>
+        <Slikar>Pierre-Auguste Renoir</Slikar>
+        <Godina>1885</Godina>
+        <Muzej>The National Gallery of Art, Washington DC</Muzej>
+    </Djelo>
+    <Djelo>
+        <Slika>Slike/Impresionizam7.jpg</Slika>
+        <Naslov>The Boulevard Montmartre, Afternoon</Naslov>
+        <Slikar>Camille Pissarro</Slikar>
+        <Godina>1897</Godina>
+        <Muzej>The State Hermitage Museum, St. Petersburg</Muzej>
+    </Djelo>
+</Djela>
